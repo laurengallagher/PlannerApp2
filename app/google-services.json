@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "372286381075",
+    "firebase_url": "https://planner2-a425b.firebaseio.com",
+    "project_id": "planner2-a425b",
+    "storage_bucket": "planner2-a425b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372286381075:android:cf07d2f7a650ed05f673e6",
+        "android_client_info": {
+          "package_name": "org.wit.plannerapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372286381075-523qt2iq8ee9s76bfbammh2p12m9p67a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY4lku6uEV0BSlQCvrBxyq8qiv0DMzFR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372286381075-523qt2iq8ee9s76bfbammh2p12m9p67a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
